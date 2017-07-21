@@ -3,4 +3,3 @@ Git is free software distributed under the GPL.
 good good good good
 Creating a new branch is quick and simple.
 gonna test again
-try git bash
